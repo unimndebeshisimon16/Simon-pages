@@ -1,0 +1,28 @@
+body {
+  background-color: #EAF6F6;
+}
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bfbf;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 20%;
+}
+img:hover {
+  background-color: #66bfbf;
+}
+.sami {
+  background-color: ;
+}
+.sam1 {
+  background-color: green;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}

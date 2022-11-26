@@ -1,0 +1,54 @@
+body{
+margin: 0;
+}
+.first-container{
+  border-radius: 10px;
+  padding: 10px 20px 20px 20px;
+  margin: auto 50px auto 50px;
+  background-color: #efdecd;
+  text-align: center;
+}
+button{
+  background-color: #a4c639;
+  border: 2px solid blue;
+  border-radius: 10px;
+  color: white;
+  font-size: 30px;
+  font-family: sans-serif;
+  height: 50px;
+  width: 400px;
+}
+button:hover{
+  color: yellow;
+}
+h4{
+  font-size: 20px;
+}
+h3{
+  font-size: 20px;
+}
+p{
+  font-size: 20px;
+}
+.lastp{
+  color: red;
+  font-size: 20px;
+}
+.second-container{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+.third-container{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+.forth-container{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
